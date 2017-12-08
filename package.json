@@ -1,0 +1,19 @@
+{
+  "name": "dgradients",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arorayash/dgradientjs.git"
+  },
+  "author": "arorayash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arorayash/dgradientjs/issues"
+  },
+  "homepage": "https://github.com/arorayash/dgradientjs#readme"
+}
